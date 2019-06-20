@@ -1,0 +1,51 @@
+.title {
+	color: orange;
+	font-family: 'Indie Flower', cursive;
+    font-size: 100px;
+	}
+.introduction { 
+    color: #e4ff00;
+	font-family: 'Indie Flower',cursive;
+	font-size: 35px;
+	}
+body {
+background-color: #009bff;
+}
+
+.background2{
+background-color:#b0ff00;
+}
+.title2{
+	font-size:100px;
+	font-family: 'Mali', cursive;
+	color: #5c07f8;
+}
+
+
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-size:70px;
+}
+
+.link{
+	font-size: 65px;
+	font-family:'Indie Flower', cursive;
+	color: #f4ff1a;
+}
+	
+	
+.name{
+	font-size: 45px;
+	font-family:'Indie Flower',cursive;
+}
+.about{
+	font-size: 30px;
+	font-family:'Indie Flower',cursive;
+	   color: black;
+}
+
+
+.t1{
+	font-family
